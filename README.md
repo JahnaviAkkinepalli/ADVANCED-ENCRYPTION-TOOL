@@ -27,3 +27,7 @@ In terms of practical applications, this encryption tool can be used to secure s
 
 Overall, the Advanced Encryption Tool represents a successful implementation of secure file handling practices. It meets the requirements of the internship project by delivering a robust, modular, and user-friendly encryption application, and reflects an understanding of core cybersecurity principles like confidentiality, key management, and cryptographic integrity. This project not only enhances the developer’s technical portfolio but also demonstrates a commitment to building practical solutions for real-world security challenges.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/ff80338f-a7f8-4759-abce-84fcce886bde)
+
