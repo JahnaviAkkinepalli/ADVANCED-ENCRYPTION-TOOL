@@ -1,14 +1,5 @@
 COMPANY: CODTECH IT SOLUTIONS
-
-NAME: AKKINEPALLI JAHNAVI
-
-INTERN ID: CT06WK30
-
-DOMAIN: CYBER SECURITY & ETHICAL HACKING
-
-DURATION: 6 WEEEKS
-
-MENTOR: NEELA SANTOSH
+ 
 
 DESCRIPTION:
 The Advanced Encryption Tool is a robust Python-based encryption and decryption solution aimed at providing high-grade data security using the AES-256 algorithm. Designed as part of a cybersecurity-focused internship project, this tool ensures that sensitive files remain confidential and protected against unauthorized access. The application was developed following industry best practices to create a reliable, modular, and user-friendly security solution suitable for individuals, developers, and organizations that handle sensitive information.
